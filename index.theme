@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=phizos icon pack
+Comment=alpha 
+Inherits=MacOs-sierra-CT,gnome,hicolor,Numix
+
+# Directory list
+Directories=apps/64,
+
+[apps/64]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
