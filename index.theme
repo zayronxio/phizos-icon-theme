@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=phizos icon pack
 Comment=alpha 
-Inherits=MacOs-sierra-CT,gnome,hicolor,Numix
+Inherits=Macos-sierra-CT,gnome,hicolor,Numix
 
 # Directory list
 Directories=apps/64,
